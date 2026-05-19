@@ -6,27 +6,45 @@
   "iframeUrl": "/game/index.html",
   "embedUrl": "https://html5.gamemonetize.co/9qqz7vihsh6twz9tiqcck9g9vyb3s158/",
   "embedSource": "GameMonetize - Dog Escape 2",
-
   "seo": {
-    "title": "Dog Escape – Free Puzzle Game Online | No Download",
-    "description": "Play Dog Escape free online — guide your dog through clever puzzles and tricky obstacles. No download, no account needed. Start solving in seconds.",
-    "keywords": ["Dog Escape", "Dog Escape online", "dog escape puzzle game", "free puzzle game browser", "dog escape game no download", "online puzzle game free", "brain puzzle game dog"]
+    "title": "Dog Escape \u2013 Free Puzzle Game Online | No Download",
+    "description": "Play Dog Escape free online \u2014 guide your dog through clever puzzles and tricky obstacles. No download, no account needed. Start solving in seconds.",
+    "keywords": [
+      "Dog Escape",
+      "Dog Escape online",
+      "dog escape puzzle game",
+      "free puzzle game browser",
+      "dog escape game no download",
+      "online puzzle game free",
+      "brain puzzle game dog"
+    ]
   },
-
   "homepage": {
-    "heroHeadline": "Dog Escape — Free Puzzle Game Online",
+    "heroHeadline": "Dog Escape \u2014 Free Puzzle Game Online",
     "heroSubtitle": "Guide your dog through cunning traps and brain-teasing obstacles. Sharp logic wins every time.",
-    "lede": "Dog Escape is a free browser puzzle game where you navigate a clever canine through increasingly tricky levels. No download, no account — just open the Play page and start solving.",
+    "lede": "Dog Escape is a free browser puzzle game where you navigate a clever canine through increasingly tricky levels. No download, no account \u2014 just open the Play page and start solving.",
     "stats": [
-      { "value": "50+",  "label": "Puzzle Levels" },
-      { "value": "5",    "label": "Difficulty Tiers" },
-      { "value": "0",    "label": "Downloads Needed" },
-      { "value": "100%", "label": "Free Forever" }
+      {
+        "value": "50+",
+        "label": "Puzzle Levels"
+      },
+      {
+        "value": "5",
+        "label": "Difficulty Tiers"
+      },
+      {
+        "value": "0",
+        "label": "Downloads Needed"
+      },
+      {
+        "value": "100%",
+        "label": "Free Forever"
+      }
     ],
     "about": {
       "kicker": "What is Dog Escape?",
       "headline": "The puzzle game that rewards patience and sharp spatial thinking.",
-      "paragraph1": "Dog Escape is a free browser puzzle game built around one goal: get the dog out. Each level places your canine companion in a maze of locks, barriers, and sliding elements that must be cleared in the right order. Rushing will not work — success comes from reading the layout and planning your sequence of moves before you make them.",
+      "paragraph1": "Dog Escape is a free browser puzzle game built around one goal: get the dog out. Each level places your canine companion in a maze of locks, barriers, and sliding elements that must be cleared in the right order. Rushing will not work \u2014 success comes from reading the layout and planning your sequence of moves before you make them.",
       "paragraph2": "Dog Escape runs entirely in your browser. No installation, no account, no cost. Navigate to the Play page and begin solving from level one."
     },
     "howToPlay": {
@@ -34,84 +52,229 @@
       "subheading": "Master the mechanics in minutes, then put your brain to work."
     },
     "steps": [
-      { "icon": "folder",       "title": "Open the Game",         "desc": "Go to the Play page. Dog Escape loads instantly in your browser — desktop, tablet, or phone all work." },
-      { "icon": "eye",          "title": "Read the Puzzle",       "desc": "Before you move, study the layout. Spot which obstacles block the exit and what order they need to move." },
-      { "icon": "refresh",      "title": "Plan Your Sequence",    "desc": "Dog Escape rewards deliberate thinking. Work out your move order before touching anything." },
-      { "icon": "puzzle",       "title": "Solve the Level",       "desc": "Execute your plan step by step. If you get stuck, restart without penalty and try a different approach." },
-      { "icon": "check-circle", "title": "Progress and Improve",  "desc": "Each completed level unlocks the next. Difficulty scales steadily — early victories build the skills you need later." }
+      {
+        "icon": "folder",
+        "title": "Open the Game",
+        "desc": "Go to the Play page. Dog Escape loads instantly in your browser \u2014 desktop, tablet, or phone all work."
+      },
+      {
+        "icon": "eye",
+        "title": "Read the Puzzle",
+        "desc": "Before you move, study the layout. Spot which obstacles block the exit and what order they need to move."
+      },
+      {
+        "icon": "refresh",
+        "title": "Plan Your Sequence",
+        "desc": "Dog Escape rewards deliberate thinking. Work out your move order before touching anything."
+      },
+      {
+        "icon": "puzzle",
+        "title": "Solve the Level",
+        "desc": "Execute your plan step by step. If you get stuck, restart without penalty and try a different approach."
+      },
+      {
+        "icon": "check-circle",
+        "title": "Progress and Improve",
+        "desc": "Each completed level unlocks the next. Difficulty scales steadily \u2014 early victories build the skills you need later."
+      }
     ],
     "categories": [
-      { "name": "Beginner",     "icon": "star",   "color": "#10b981", "bg": "#d1fae5", "img": "/level-thumbs/category-1.webp" },
-      { "name": "Intermediate", "icon": "target", "color": "#3b82f6", "bg": "#dbeafe", "img": "/level-thumbs/category-2.webp" },
-      { "name": "Advanced",     "icon": "zap",    "color": "#f59e0b", "bg": "#fef3c7", "img": "/level-thumbs/category-3.webp" },
-      { "name": "Expert",       "icon": "trophy", "color": "#8b5cf6", "bg": "#ede9fe", "img": "/level-thumbs/category-4.webp" },
-      { "name": "Master",       "icon": "crown",  "color": "#ef4444", "bg": "#fee2e2", "img": "/level-thumbs/category-5.webp" }
+      {
+        "name": "Beginner",
+        "icon": "star",
+        "color": "#10b981",
+        "bg": "#d1fae5",
+        "img": "/level-thumbs/category-1.webp"
+      },
+      {
+        "name": "Intermediate",
+        "icon": "target",
+        "color": "#3b82f6",
+        "bg": "#dbeafe",
+        "img": "/level-thumbs/category-2.webp"
+      },
+      {
+        "name": "Advanced",
+        "icon": "zap",
+        "color": "#f59e0b",
+        "bg": "#fef3c7",
+        "img": "/level-thumbs/category-3.webp"
+      },
+      {
+        "name": "Expert",
+        "icon": "trophy",
+        "color": "#8b5cf6",
+        "bg": "#ede9fe",
+        "img": "/level-thumbs/category-4.webp"
+      },
+      {
+        "name": "Master",
+        "icon": "crown",
+        "color": "#ef4444",
+        "bg": "#fee2e2",
+        "img": "/level-thumbs/category-5.webp"
+      }
     ],
     "features": [
-      { "icon": "bolt",   "title": "Instant Browser Play",     "desc": "No download, no account. The game launches in your browser within seconds." },
-      { "icon": "target", "title": "50+ Handcrafted Levels",   "desc": "Every level is designed to challenge spatial reasoning and planning skills — no filler content." },
-      { "icon": "device", "title": "Works on Any Device",      "desc": "Fully responsive design. Play on desktop, tablet, or mobile with touch or mouse controls." },
-      { "icon": "image",  "title": "Charming Visual Style",    "desc": "Clean graphics with a loveable canine hero make every level a pleasure to look at and solve." },
-      { "icon": "shield", "title": "Safe for All Ages",        "desc": "No social features, no chat, no in-app purchases, no personal data collected." },
-      { "icon": "music",  "title": "Relaxing Sound Design",    "desc": "A calm ambient soundtrack keeps you focused without adding pressure during tricky levels." }
+      {
+        "icon": "bolt",
+        "title": "Instant Browser Play",
+        "desc": "No download, no account. The game launches in your browser within seconds."
+      },
+      {
+        "icon": "target",
+        "title": "50+ Handcrafted Levels",
+        "desc": "Every level is designed to challenge spatial reasoning and planning skills \u2014 no filler content."
+      },
+      {
+        "icon": "device",
+        "title": "Works on Any Device",
+        "desc": "Fully responsive design. Play on desktop, tablet, or mobile with touch or mouse controls."
+      },
+      {
+        "icon": "image",
+        "title": "Charming Visual Style",
+        "desc": "Clean graphics with a loveable canine hero make every level a pleasure to look at and solve."
+      },
+      {
+        "icon": "shield",
+        "title": "Safe for All Ages",
+        "desc": "No social features, no chat, no in-app purchases, no personal data collected."
+      },
+      {
+        "icon": "music",
+        "title": "Relaxing Sound Design",
+        "desc": "A calm ambient soundtrack keeps you focused without adding pressure during tricky levels."
+      }
     ],
     "faq": [
-      { "q": "What is Dog Escape?",                "a": "Dog Escape is a free browser puzzle game where you guide a dog through obstacle-filled levels to reach the exit. Each level requires careful planning and logical thinking to complete." },
-      { "q": "Is Dog Escape free?",                "a": "Yes — Dog Escape is completely free to play. There are no paywalls, no premium tiers, and no in-app purchases." },
-      { "q": "Does Dog Escape work on mobile?",    "a": "Yes. The game is fully responsive and works on any modern mobile browser. No app download is required." },
-      { "q": "How many levels are there?",          "a": "Dog Escape features over 50 puzzle levels across five difficulty tiers, from Beginner to Master." },
-      { "q": "Is Dog Escape safe for kids?",       "a": "Yes. The game contains no violent content, no social features, no chat, and no personal data collection from children." },
-      { "q": "Do I need to create an account?",     "a": "No account is required. Open the Play page and start playing immediately — no sign-up of any kind." }
+      {
+        "q": "What is Dog Escape?",
+        "a": "Dog Escape is a free browser puzzle game where you guide a dog through obstacle-filled levels to reach the exit. Each level requires careful planning and logical thinking to complete."
+      },
+      {
+        "q": "Is Dog Escape free?",
+        "a": "Yes \u2014 Dog Escape is completely free to play. There are no paywalls, no premium tiers, and no in-app purchases."
+      },
+      {
+        "q": "Does Dog Escape work on mobile?",
+        "a": "Yes. The game is fully responsive and works on any modern mobile browser. No app download is required."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "Dog Escape features over 50 puzzle levels across five difficulty tiers, from Beginner to Master."
+      },
+      {
+        "q": "Is Dog Escape safe for kids?",
+        "a": "Yes. The game contains no violent content, no social features, no chat, and no personal data collection from children."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is required. Open the Play page and start playing immediately \u2014 no sign-up of any kind."
+      }
     ],
     "cta": {
       "headline": "Ready to free the dog?",
       "subtext": "No signup, no download. Open your browser and start solving right now."
     }
   },
-
   "playPage": {
     "howItWorksSubtitle": "Three simple steps to get your dog out",
     "steps": [
-      { "title": "Open Dog Escape",       "desc": "Visit the Play page — the puzzle loads instantly, no installation required." },
-      { "title": "Study the Obstacles",   "desc": "Take a moment to read the level layout before making your first move." },
-      { "title": "Solve and Advance",     "desc": "Clear each obstacle in the right order to free the dog and unlock the next level." }
+      {
+        "title": "Open Dog Escape",
+        "desc": "Visit the Play page \u2014 the puzzle loads instantly, no installation required."
+      },
+      {
+        "title": "Study the Obstacles",
+        "desc": "Take a moment to read the level layout before making your first move."
+      },
+      {
+        "title": "Solve and Advance",
+        "desc": "Clear each obstacle in the right order to free the dog and unlock the next level."
+      }
     ]
   },
-
   "faqPage": {
     "items": [
-      { "q": "Is Dog Escape really free?",              "a": "Yes. Dog Escape is 100% free to play with no hidden costs, subscriptions, or in-app purchases." },
-      { "q": "What devices can I play on?",              "a": "Dog Escape runs on any modern browser — desktop, tablet, or mobile. No app download is needed." },
-      { "q": "How does the game work?",                  "a": "Each level presents a dog trapped behind obstacles. You must remove or move barriers in the correct sequence to create a path to the exit." },
-      { "q": "How many levels are there?",               "a": "There are over 50 levels spread across five difficulty tiers: Beginner, Intermediate, Advanced, Expert, and Master." },
-      { "q": "Can I play offline?",                      "a": "Dog Escape requires an internet connection to load. Once the level is active, you can play through it on a slow or intermittent connection without issues." },
-      { "q": "Is my progress saved?",                    "a": "Progress is saved locally in your browser. Clearing your browser cache will reset your progress, so avoid doing so if you want to keep your place." },
-      { "q": "Is Dog Escape safe for children?",        "a": "Yes. There is no violent content, no social interaction, no chat, and no advertising targeted at children. The game does not collect personal data." },
-      { "q": "Do I need to create an account?",          "a": "No account is needed. Simply open the Play page and begin your first puzzle immediately." }
+      {
+        "q": "Is Dog Escape really free?",
+        "a": "Yes. Dog Escape is 100% free to play with no hidden costs, subscriptions, or in-app purchases."
+      },
+      {
+        "q": "What devices can I play on?",
+        "a": "Dog Escape runs on any modern browser \u2014 desktop, tablet, or mobile. No app download is needed."
+      },
+      {
+        "q": "How does the game work?",
+        "a": "Each level presents a dog trapped behind obstacles. You must remove or move barriers in the correct sequence to create a path to the exit."
+      },
+      {
+        "q": "How many levels are there?",
+        "a": "There are over 50 levels spread across five difficulty tiers: Beginner, Intermediate, Advanced, Expert, and Master."
+      },
+      {
+        "q": "Can I play offline?",
+        "a": "Dog Escape requires an internet connection to load. Once the level is active, you can play through it on a slow or intermittent connection without issues."
+      },
+      {
+        "q": "Is my progress saved?",
+        "a": "Progress is saved locally in your browser. Clearing your browser cache will reset your progress, so avoid doing so if you want to keep your place."
+      },
+      {
+        "q": "Is Dog Escape safe for children?",
+        "a": "Yes. There is no violent content, no social interaction, no chat, and no advertising targeted at children. The game does not collect personal data."
+      },
+      {
+        "q": "Do I need to create an account?",
+        "a": "No account is needed. Simply open the Play page and begin your first puzzle immediately."
+      }
     ]
   },
-
   "howToPlayPage": {
     "intro": "Dog Escape is a spatial puzzle game built around a single objective: guide the dog to the exit by removing obstacles in the right order. Levels start gentle and grow progressively harder, demanding sharper planning and longer move sequences as you advance.",
     "steps": [
-      { "title": "Analyse the Layout",    "desc": "Before touching anything, take stock of every obstacle between the dog and the exit. Knowing the full picture prevents costly mistakes." },
-      { "title": "Identify the Sequence", "desc": "Work backwards from the exit. Which obstacle is blocking the final path? What needs to move before that? Build your move order from the exit back to the dog." },
-      { "title": "Execute Carefully",     "desc": "Make each move deliberately. If you realise you have made an error, restart — there is no penalty for resetting and the fastest improvement comes from correct repetition, not rushing." }
+      {
+        "title": "Analyse the Layout",
+        "desc": "Before touching anything, take stock of every obstacle between the dog and the exit. Knowing the full picture prevents costly mistakes."
+      },
+      {
+        "title": "Identify the Sequence",
+        "desc": "Work backwards from the exit. Which obstacle is blocking the final path? What needs to move before that? Build your move order from the exit back to the dog."
+      },
+      {
+        "title": "Execute Carefully",
+        "desc": "Make each move deliberately. If you realise you have made an error, restart \u2014 there is no penalty for resetting and the fastest improvement comes from correct repetition, not rushing."
+      }
     ],
     "mechanic": {
       "title": "Sliding and Clearing Obstacles",
       "desc": "Dog Escape uses a slide-and-clear mechanic where barriers must be moved or unlocked in a specific order. Moving the wrong obstacle first can block your path entirely, so the order of operations is central to every solution."
     },
-    "difficultyProgression": "Beginner levels introduce one or two obstacle types with straightforward solutions. By the Expert and Master tiers, levels feature layered dependencies — removing one block creates a new block elsewhere — requiring you to visualise five or more moves ahead before committing.",
+    "difficultyProgression": "Beginner levels introduce one or two obstacle types with straightforward solutions. By the Expert and Master tiers, levels feature layered dependencies \u2014 removing one block creates a new block elsewhere \u2014 requiring you to visualise five or more moves ahead before committing.",
     "tips": [
-      { "title": "Start from the exit",             "desc": "Work backwards from the exit to the dog. Identify the last obstacle you need to move, then figure out what clears the path to that obstacle. This reverse approach cuts through complex layouts quickly." },
-      { "title": "Never rush the first move",        "desc": "The first move in a difficult level is rarely obvious. Pause, survey the entire board, and identify which element has the most downstream impact before committing." },
-      { "title": "Reset without hesitation",        "desc": "There is no score penalty for restarting. If a sequence is not working, reset immediately rather than trying to recover from a bad position. Clean starts are faster than recovery attempts." },
-      { "title": "Spot the bottleneck",             "desc": "Every level has one critical obstacle that gates the rest of the solution. Find the bottleneck first, and the rest of the puzzle often becomes straightforward." },
-      { "title": "Play short focused sessions",     "desc": "Puzzle performance drops when you are fatigued. Twenty minutes of sharp focused play beats an hour of half-attentive grinding. Take breaks between difficult levels." }
+      {
+        "title": "Start from the exit",
+        "desc": "Work backwards from the exit to the dog. Identify the last obstacle you need to move, then figure out what clears the path to that obstacle. This reverse approach cuts through complex layouts quickly."
+      },
+      {
+        "title": "Never rush the first move",
+        "desc": "The first move in a difficult level is rarely obvious. Pause, survey the entire board, and identify which element has the most downstream impact before committing."
+      },
+      {
+        "title": "Reset without hesitation",
+        "desc": "There is no score penalty for restarting. If a sequence is not working, reset immediately rather than trying to recover from a bad position. Clean starts are faster than recovery attempts."
+      },
+      {
+        "title": "Spot the bottleneck",
+        "desc": "Every level has one critical obstacle that gates the rest of the solution. Find the bottleneck first, and the rest of the puzzle often becomes straightforward."
+      },
+      {
+        "title": "Play short focused sessions",
+        "desc": "Puzzle performance drops when you are fatigued. Twenty minutes of sharp focused play beats an hour of half-attentive grinding. Take breaks between difficult levels."
+      }
     ]
   },
-
   "blog": {
     "headline": "Guides &amp; Strategy",
     "subheading": "Practical puzzle guides to help you solve faster and enjoy Dog Escape more.",
@@ -124,26 +287,26 @@
         "category": "Guide",
         "readTime": "5 min read",
         "date": "2026-01-01",
-        "icon": "🗺️",
+        "icon": "\ud83d\uddfa\ufe0f",
         "sections": [
           {
             "heading": "What Is Dog Escape?",
             "paragraphs": [
-              "Dog Escape is a free browser puzzle game built around spatial logic. Each level traps a dog behind a series of obstacles — barriers, locks, and sliding blocks — that you must clear in the right order to open a path to the exit. The mechanic is simple to learn but demanding to master, especially at the higher difficulty tiers.",
+              "Dog Escape is a free browser puzzle game built around spatial logic. Each level traps a dog behind a series of obstacles \u2014 barriers, locks, and sliding blocks \u2014 that you must clear in the right order to open a path to the exit. The mechanic is simple to learn but demanding to master, especially at the higher difficulty tiers.",
               "The game runs entirely in your browser with no download, no account, and no cost. It works on desktop, tablet, and mobile, and progress is saved automatically in your browser so you can return to exactly where you left off."
             ]
           },
           {
             "heading": "How to Open the Game",
             "paragraphs": [
-              "Navigate to the Play page on this site. Dog Escape loads within seconds directly in your browser window. No installation, no app store, no plugin required — it simply opens and is ready to play.",
+              "Navigate to the Play page on this site. Dog Escape loads within seconds directly in your browser window. No installation, no app store, no plugin required \u2014 it simply opens and is ready to play.",
               "If you are playing on a mobile device, the game adapts automatically to your screen size. Touch controls are supported natively, so the experience is just as smooth on phone as it is on desktop."
             ]
           },
           {
             "heading": "Your First Five Minutes",
             "paragraphs": [
-              "The opening Beginner levels are designed to introduce one mechanic at a time without pressure. Complete them without worrying about speed — the goal is to understand how obstacles interact, not to finish quickly. Each completed level teaches you something that will matter later.",
+              "The opening Beginner levels are designed to introduce one mechanic at a time without pressure. Complete them without worrying about speed \u2014 the goal is to understand how obstacles interact, not to finish quickly. Each completed level teaches you something that will matter later.",
               "Pay close attention to the order in which you remove obstacles. Dog Escape's entire logic rests on sequencing: the right move made at the wrong time can seal off your path. The early levels are the perfect laboratory for building this instinct."
             ]
           },
@@ -162,7 +325,7 @@
         "category": "Strategy",
         "readTime": "7 min read",
         "date": "2026-01-05",
-        "icon": "💡",
+        "icon": "\ud83d\udca1",
         "sections": [
           {
             "heading": "Master the Fundamentals First",
@@ -174,8 +337,8 @@
           {
             "heading": "Think Before You Act",
             "paragraphs": [
-              "The single most common mistake in Dog Escape is moving the nearest or most obvious obstacle first. That impulse is usually wrong. The nearest obstacle is rarely the right starting point — the correct first move often involves something at the far edge of the board.",
-              "Before every level, spend ten seconds mapping out which obstacles are load-bearing — meaning their removal changes what is possible elsewhere. Those are the ones you need to sequence carefully."
+              "The single most common mistake in Dog Escape is moving the nearest or most obvious obstacle first. That impulse is usually wrong. The nearest obstacle is rarely the right starting point \u2014 the correct first move often involves something at the far edge of the board.",
+              "Before every level, spend ten seconds mapping out which obstacles are load-bearing \u2014 meaning their removal changes what is possible elsewhere. Those are the ones you need to sequence carefully."
             ]
           },
           {
@@ -188,7 +351,7 @@
           {
             "heading": "Advanced Techniques",
             "paragraphs": [
-              "For Expert and Master levels, practise working backwards. Identify the last obstacle you need to move — the one directly blocking the exit — and then identify what must be moved before that. Chain backwards through the level until you reach the first move. This reverse-engineering approach consistently outperforms forward trial and error.",
+              "For Expert and Master levels, practise working backwards. Identify the last obstacle you need to move \u2014 the one directly blocking the exit \u2014 and then identify what must be moved before that. Chain backwards through the level until you reach the first move. This reverse-engineering approach consistently outperforms forward trial and error.",
               "Also look for false starts: obstacles that appear to be on the critical path but are actually distractors. Expert levels deliberately include these to slow you down. Identifying them early saves significant time."
             ]
           }
@@ -197,37 +360,37 @@
       {
         "slug": "game-benefits",
         "title": "The Cognitive Benefits of Playing Dog Escape",
-        "excerpt": "Why spatial puzzle games like Dog Escape are genuinely good for your brain — and what the research says.",
+        "excerpt": "Why spatial puzzle games like Dog Escape are genuinely good for your brain \u2014 and what the research says.",
         "category": "Science",
         "readTime": "6 min read",
         "date": "2026-01-10",
-        "icon": "🧠",
+        "icon": "\ud83e\udde0",
         "sections": [
           {
             "heading": "Games and the Brain",
             "paragraphs": [
-              "Spatial puzzle games engage a distinct set of cognitive systems: working memory holds the current board state, executive function plans the move sequence, and spatial reasoning models how the board will look after each action. These are not passive activities — they require sustained, active mental engagement from start to finish.",
+              "Spatial puzzle games engage a distinct set of cognitive systems: working memory holds the current board state, executive function plans the move sequence, and spatial reasoning models how the board will look after each action. These are not passive activities \u2014 they require sustained, active mental engagement from start to finish.",
               "Dog Escape is particularly well-suited to training these systems because each level requires you to hold an imagined future state in mind while executing a present sequence of moves. This mental juggling is exactly the kind of exercise that strengthens working memory."
             ]
           },
           {
             "heading": "Problem-Solving",
             "paragraphs": [
-              "Research on transfer learning shows that skills practised in puzzle games — particularly sequencing and constraint satisfaction — have real-world applications in planning, decision-making, and analytical thinking. The core problem Dog Escape poses (how do I get from this state to that state given these constraints?) is structurally identical to many professional and everyday challenges.",
+              "Research on transfer learning shows that skills practised in puzzle games \u2014 particularly sequencing and constraint satisfaction \u2014 have real-world applications in planning, decision-making, and analytical thinking. The core problem Dog Escape poses (how do I get from this state to that state given these constraints?) is structurally identical to many professional and everyday challenges.",
               "Regular play builds tolerance for complexity. Players who work through difficult Expert and Master levels consistently become better at resisting the urge to act on the first available option and more comfortable sitting with ambiguity while they think."
             ]
           },
           {
             "heading": "Stress Relief",
             "paragraphs": [
-              "The concept of 'flow' — complete absorption in a challenging task, described by psychologist Mihaly Csikszentmihalyi — is particularly well achieved in puzzle games. Dog Escape's progressive difficulty is designed to keep you in that optimal challenge band where the puzzle is hard enough to demand full attention but not so hard that it induces frustration.",
-              "During flow states, brain activity in the default mode network — the region associated with self-referential thought and rumination — is suppressed. A 15-20 minute Dog Escape session can function as a genuine mental reset after a stressful period."
+              "The concept of 'flow' \u2014 complete absorption in a challenging task, described by psychologist Mihaly Csikszentmihalyi \u2014 is particularly well achieved in puzzle games. Dog Escape's progressive difficulty is designed to keep you in that optimal challenge band where the puzzle is hard enough to demand full attention but not so hard that it induces frustration.",
+              "During flow states, brain activity in the default mode network \u2014 the region associated with self-referential thought and rumination \u2014 is suppressed. A 15-20 minute Dog Escape session can function as a genuine mental reset after a stressful period."
             ]
           },
           {
             "heading": "Safe Screen Time",
             "paragraphs": [
-              "Not all screen time affects the brain equally. Passive consumption (scrolling, watching) and active cognitive engagement (puzzle solving) produce measurably different brain activity patterns. Dog Escape belongs firmly in the active category — every minute of play requires decision-making and forward planning.",
+              "Not all screen time affects the brain equally. Passive consumption (scrolling, watching) and active cognitive engagement (puzzle solving) produce measurably different brain activity patterns. Dog Escape belongs firmly in the active category \u2014 every minute of play requires decision-making and forward planning.",
               "For children and adults alike, goal-directed puzzle play provides structured cognitive challenge rather than the diffuse stimulation of passive media. This distinction matters for parents evaluating screen time choices for their family."
             ]
           }
@@ -240,12 +403,12 @@
         "category": "Strategy",
         "readTime": "8 min read",
         "date": "2026-01-15",
-        "icon": "📈",
+        "icon": "\ud83d\udcc8",
         "sections": [
           {
             "heading": "Focus on Consistency",
             "paragraphs": [
-              "Improvement in Dog Escape comes from consistent, deliberate practice — not from long grinding sessions or from replaying levels you already find easy. Each session should include at least a few levels that genuinely challenge you. That is where the learning happens.",
+              "Improvement in Dog Escape comes from consistent, deliberate practice \u2014 not from long grinding sessions or from replaying levels you already find easy. Each session should include at least a few levels that genuinely challenge you. That is where the learning happens.",
               "Aim for daily short sessions rather than occasional long ones. Research on motor and cognitive skill acquisition consistently shows that distributed practice produces stronger long-term retention than massed practice."
             ]
           },
@@ -260,13 +423,13 @@
             "heading": "Build a Strategy",
             "paragraphs": [
               "Develop a consistent pre-move routine: survey the full board, identify the exit, trace backwards to find the blocking sequence, and only then make your first move. Players who apply this routine consistently outperform those who improvise, even when the improvisers are naturally quick thinkers.",
-              "For harder levels, use a process of elimination. Identify moves that are definitely wrong first — obstacles that cannot be the first move because removing them changes nothing useful. This negative approach narrows the solution space rapidly."
+              "For harder levels, use a process of elimination. Identify moves that are definitely wrong first \u2014 obstacles that cannot be the first move because removing them changes nothing useful. This negative approach narrows the solution space rapidly."
             ]
           },
           {
             "heading": "Practice Regularly",
             "paragraphs": [
-              "Ten to fifteen minutes of focused puzzle play per day is enough to drive meaningful improvement over a two-to-four week period. The key word is focused — play without distractions, with your full attention on the board.",
+              "Ten to fifteen minutes of focused puzzle play per day is enough to drive meaningful improvement over a two-to-four week period. The key word is focused \u2014 play without distractions, with your full attention on the board.",
               "Once you complete a difficulty tier, revisit earlier levels and try to solve them more efficiently than before. This is not wasted time. Efficiency practice at lower difficulty levels solidifies spatial reasoning skills that apply directly to the harder tiers."
             ]
           }
@@ -275,30 +438,30 @@
       {
         "slug": "parents-guide",
         "title": "Dog Escape for Kids: A Parent's Complete Guide",
-        "excerpt": "What parents need to know about Dog Escape — content safety, cognitive benefits, and practical screen time guidance.",
+        "excerpt": "What parents need to know about Dog Escape \u2014 content safety, cognitive benefits, and practical screen time guidance.",
         "category": "Family",
         "readTime": "6 min read",
         "date": "2026-01-20",
-        "icon": "👨‍👩‍👧",
+        "icon": "\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67",
         "sections": [
           {
             "heading": "Is Dog Escape Safe for Children?",
             "paragraphs": [
               "Dog Escape is designed to be safe for players of all ages. There are no social features, no multiplayer chat, no user-generated content, and no in-app purchases of any kind. The game does not display advertising targeted at children and does not require the creation of an account.",
-              "Children can play entirely anonymously. No personal data is collected or stored. The game content — a dog navigating puzzles to reach an exit — contains nothing violent, inappropriate, or unsuitable for any age group."
+              "Children can play entirely anonymously. No personal data is collected or stored. The game content \u2014 a dog navigating puzzles to reach an exit \u2014 contains nothing violent, inappropriate, or unsuitable for any age group."
             ]
           },
           {
             "heading": "What Will My Child Learn?",
             "paragraphs": [
-              "Dog Escape builds spatial reasoning, logical sequencing, and forward planning — skills with direct relevance to mathematics, science, and everyday problem-solving. The progressive difficulty structure means children encounter genuine challenge without being overwhelmed, which research links to the development of persistence and a growth mindset.",
+              "Dog Escape builds spatial reasoning, logical sequencing, and forward planning \u2014 skills with direct relevance to mathematics, science, and everyday problem-solving. The progressive difficulty structure means children encounter genuine challenge without being overwhelmed, which research links to the development of persistence and a growth mindset.",
               "Unlike passive entertainment, puzzle games require children to actively formulate plans and evaluate outcomes. This active cognitive engagement is qualitatively different from watching video content and supports rather than hinders cognitive development."
             ]
           },
           {
             "heading": "Tips for Healthy Screen Time",
             "paragraphs": [
-              "Set a session limit before play begins — 20 to 30 minutes is a reasonable guideline for most age groups. Dog Escape's level structure makes natural stopping points easy to identify: completing a set of five levels is a clean, satisfying place to stop.",
+              "Set a session limit before play begins \u2014 20 to 30 minutes is a reasonable guideline for most age groups. Dog Escape's level structure makes natural stopping points easy to identify: completing a set of five levels is a clean, satisfying place to stop.",
               "Consider playing alongside your child for the first few levels. Puzzles like Dog Escape are excellent for collaborative thinking, and joint play gives you a direct window into how your child approaches problems and where their reasoning needs support."
             ]
           },
@@ -307,6 +470,188 @@
             "paragraphs": [
               "Dog Escape is built in compliance with the Children's Online Privacy Protection Act (COPPA). The site does not knowingly collect personal information from children under the age of 13 and does not feature advertising networks that target children.",
               "Safe browser play, no in-app purchases, and no account registration requirements mean parents can be confident their child's experience on Dog Escape is private, safe, and free from commercial pressure."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "dog-escape-sequence-planning-guide",
+        "title": "Dog Escape Sequence Planning Guide: How to Solve Levels Without Wasting Moves",
+        "excerpt": "A practical Dog Escape guide to move order, bottlenecks, blockers, restarts, and calmer puzzle solving for harder levels.",
+        "category": "Strategy",
+        "readTime": "13 min read",
+        "date": "2026-05-19",
+        "icon": "puzzle",
+        "sections": [
+          {
+            "heading": "Start From the Exit",
+            "paragraphs": [
+              "Dog Escape becomes much clearer when you read the puzzle backward. The exit tells you what the final state must look like. Before moving the first obstacle, ask what blocks the last step. Then ask what blocks that obstacle from moving. Keep following the chain until you find the first action you can actually take.",
+              "This reverse method prevents random trial and error. Instead of moving the nearest piece and hoping the path opens, you build a reasoned sequence. The dog does not need the board to look cleaner. The dog needs a route to the exit, and that route is easiest to understand from the end.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Find the Bottleneck Before the First Move",
+            "paragraphs": [
+              "Every difficult Dog Escape level has at least one bottleneck. It may be a narrow passage, a locked section, a sliding block, or a barrier that controls several other pieces. If you solve everything except the bottleneck, the level still fails. If you solve the bottleneck first, the rest often becomes simple.",
+              "Take a few seconds to identify the element that controls the most space. What piece would make the biggest difference if it moved? What obstacle prevents several other actions? That is usually the bottleneck. Strong puzzle play begins by naming it.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Separate Real Progress From Board Movement",
+            "paragraphs": [
+              "Moving something is not the same as making progress. A piece can slide, a barrier can shift, and the board can look more active while the escape route remains just as blocked as before. Real progress either opens the path, removes a dependency, or creates room for a later critical move.",
+              "Before each move, ask what it changes for the escape route. If the answer is unclear, wait. Dog Escape rewards deliberate sequencing more than constant motion. A level solved in fewer thoughtful moves feels better than a level filled with corrections from rushed choices.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Protect Space Around Important Pieces",
+            "paragraphs": [
+              "Important pieces need room to move. If you crowd the area around a bottleneck too early, you may block the very move that solves the level. This is why some obvious early actions are traps. They create a short-term opening but take away the space required for the real solution.",
+              "When you spot an important piece, check its movement path. What spaces does it need later? Which objects must stay out of the way? Protect those spaces until the key move is complete. Good Dog Escape play often means leaving a tempting piece alone because it is serving as future room.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Use Trial Attempts as Tests",
+            "paragraphs": [
+              "A trial attempt is useful when you treat it like a test. Try a sequence, watch where it breaks, and restart with a specific lesson. The mistake is repeating the same test without changing the question. If a move order fails twice, the level is telling you that an earlier assumption is wrong.",
+              "After a failed attempt, identify the first moment the path became impossible. Do not focus only on the final blocked state. The final block is usually the result of a decision made earlier. Find that earlier decision and the next attempt will be much stronger.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Watch for One-Way Choices",
+            "paragraphs": [
+              "Some Dog Escape moves are effectively one-way choices. Once a piece moves into a certain position, it may be hard or impossible to restore the original space. These moves are not always bad, but they need confidence. A one-way move should happen only when you know what it unlocks.",
+              "If you are unsure, delay irreversible actions and look for moves that preserve flexibility. Flexible moves reveal information without closing options. One-way moves spend options. The more difficult the level, the more carefully you should decide when to spend them.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Group Obstacles by Dependency",
+            "paragraphs": [
+              "A messy level becomes easier when you group obstacles by dependency. Some pieces block the exit directly. Some block those pieces. Some are only background clutter. Put each obstacle into one of those roles before planning the full route.",
+              "This grouping helps you ignore distractions. If a piece does not affect the exit or the chain leading to it, it may not need attention yet. Dog Escape levels often include tempting moves that are not part of the solution. Dependency grouping keeps your focus on the actual route.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Keep a Mental Move Count",
+            "paragraphs": [
+              "You do not need to count every move perfectly, but a rough mental count helps you notice inefficient sequences. If a plan requires many small corrections before the main path changes, it may be the wrong plan. Efficient solutions usually move key pieces in a clean order.",
+              "A mental move count also reduces panic. You start seeing a level as a chain of required actions instead of a pile of obstacles. Three setup moves, one key unlock, two exit moves. That structure makes the puzzle easier to hold in working memory.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Make Restarts Calm and Early",
+            "paragraphs": [
+              "Dog Escape has no reason to drag a broken attempt to the end. If you know the route is blocked, restart early and preserve your focus. Fighting a failed position often teaches less than returning to the beginning with a clear correction.",
+              "The best restart includes a lesson. I moved the side block too soon. I needed to clear the lower path first. I blocked the key piece's space. These short notes make every attempt part of improvement. Without them, restarts become repetition.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Build a Stable Solving Routine",
+            "paragraphs": [
+              "A stable Dog Escape routine is simple: read from the exit, find the bottleneck, protect key spaces, choose the first dependency, and review after each move. This routine works because it matches the structure of the puzzles. Most levels are not solved by speed. They are solved by order.",
+              "Once you use this routine regularly, harder levels feel less intimidating. You may not know the full solution immediately, but you know how to begin reading it. That confidence is earned through process, and process is what turns tricky layouts into solvable paths.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          }
+        ]
+      },
+      {
+        "slug": "dog-escape-beginner-to-advanced-tips",
+        "title": "Dog Escape Tips From Beginner to Advanced: Building Better Puzzle Habits",
+        "excerpt": "A clean Dog Escape tips guide for new and returning players, covering board reading, move order, patterns, mistakes, and family-friendly play.",
+        "category": "Guide",
+        "readTime": "12 min read",
+        "date": "2026-05-19",
+        "icon": "star",
+        "sections": [
+          {
+            "heading": "Beginner Tip: Pause Before Touching Anything",
+            "paragraphs": [
+              "The first habit to build in Dog Escape is the pause. Many beginner mistakes happen in the first two seconds because the nearest obstacle looks obvious. A short pause lets you see the whole layout, the exit, and the obstacles that actually control the path.",
+              "This does not make the game slow. It makes the level cleaner. Ten seconds of reading can save several failed attempts. Before you move, know where the dog needs to go and what piece currently prevents that path from existing.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Beginner Tip: Learn What Each Move Changes",
+            "paragraphs": [
+              "After every move, ask what changed. Did the path open? Did another obstacle gain room? Did you accidentally block a useful space? This question turns play into learning. Instead of only checking whether the level is solved, you learn how the board responds.",
+              "Dog Escape is built from cause and effect. When you understand those effects, you stop relying on trial and error. Even simple levels become useful practice because they teach the relationship between one move and the next.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Intermediate Tip: Spot Repeated Patterns",
+            "paragraphs": [
+              "As levels grow harder, Dog Escape repeats certain ideas in new layouts. You may see a final gate that needs two earlier pieces moved, a side space that must stay open, or a blocker that looks optional but controls the whole route. Recognising these patterns speeds up your reading.",
+              "Do not memorise exact solutions. Memorise solution shapes. A familiar pattern tells you where to look first, not what to do automatically. The board still deserves a fresh scan, but pattern memory gives you a useful head start.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Intermediate Tip: Keep the Route Visible",
+            "paragraphs": [
+              "A good Dog Escape attempt keeps the route in mind even when you are working on a side obstacle. If you forget the route, you may make a move that helps one area while hurting the final path. Keep checking whether the dog can eventually reach the exit through the space you are building.",
+              "One simple method is to trace the future path with your eyes after each major move. Start at the dog, follow the open spaces, and stop where the next blocker appears. That blocker becomes your next planning target.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Advanced Tip: Delay Moves That Spend Flexibility",
+            "paragraphs": [
+              "Advanced levels often punish moves that spend flexibility too early. A move spends flexibility when it fills an empty space, traps a piece, or commits the board to a narrow route. These moves may be necessary, but they should happen at the right time.",
+              "Before making a committing move, ask whether all preparation is complete. If a key piece still needs space, delay. If the exit route is ready and the move unlocks the final chain, commit. Timing is not only for action games. Puzzle timing matters too.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Advanced Tip: Look for False Priorities",
+            "paragraphs": [
+              "False priorities are obstacles that look important because they are close to the dog or visually central. They may not control the solution. Dog Escape uses these distractions to test whether you read the route or just react to the board's most obvious feature.",
+              "The cure is to ask what happens if you ignore the obstacle for now. If ignoring it does not block the exit chain, it may be a later move or no move at all. This question saves time and prevents you from clearing pieces that are not part of the solution.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Family Tip: Let Children Explain Their Plan",
+            "paragraphs": [
+              "Dog Escape can be useful family screen time when children are asked to explain their thinking. Instead of only watching whether they win, ask what they plan to move and why. The explanation reveals spatial reasoning, sequencing, and patience in a way that silent play does not.",
+              "Keep the tone light. The goal is not to turn every level into homework. A simple question such as what is blocking the exit can help a child slow down and think. This makes the game more active and less like passive screen time.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
+            ]
+          },
+          {
+            "heading": "Mistake Tip: Do Not Fight Every Bad Position",
+            "paragraphs": [
+              "Some mistakes are recoverable. Others make the route impossible. Learning the difference keeps the game enjoyable. If the exit path is still possible and key spaces remain open, continue. If a critical piece is trapped or a needed space is filled, restart and apply the lesson.",
+              "Trying to rescue every broken position can create frustration. A clean restart is often faster and more educational. Dog Escape gives you a fresh board so you can test a better sequence, not so you can struggle with a position that already proved the plan wrong.",
+              "For longer sessions, try not to measure success only by completed levels. A session is useful if you become better at seeing bottlenecks, protecting empty spaces, or restarting with a reason. Those habits carry across levels. The exact layout changes, but the solving discipline stays the same."
+            ]
+          },
+          {
+            "heading": "Practice Tip: Replay Easy Levels for Efficiency",
+            "paragraphs": [
+              "Easy levels are not useless after you beat them. Replay a few and try to solve them with cleaner order, fewer hesitations, and clearer reasoning. Because the pressure is low, you can focus on the habit instead of the outcome.",
+              "This kind of practice builds the skills needed for harder levels. Efficient movement, route tracing, bottleneck spotting, and restart discipline are easier to learn on boards you understand. Then those habits are available when a new advanced puzzle appears.",
+              "This makes Dog Escape especially good for players who enjoy quiet problem solving. The best moments are not only the final escape. They are the small recognitions along the way: this piece must wait, that space must stay open, and this move finally makes the route possible. Those recognitions build confidence because the solution starts to feel earned, not guessed."
+            ]
+          },
+          {
+            "heading": "Long-Term Tip: Value Clean Thinking Over Speed",
+            "paragraphs": [
+              "Speed improves naturally when your thinking gets cleaner. Trying to play fast before you understand the board usually creates more mistakes. Dog Escape is satisfying because the right sequence makes a level open smoothly. That smoothness comes from reading, not rushing.",
+              "If you focus on clean thinking, progress feels steady. You will solve beginner boards with confidence, intermediate boards with pattern recognition, and advanced boards with a structured plan. The same calm habits carry through the whole game, from the first puzzle to the hardest routes.",
+              "This is also a good way to keep frustration low. Dog Escape can look stubborn when a level refuses to open, but the board is usually asking for one missing dependency. If you slow down and name that dependency, the puzzle becomes less personal. It is no longer a failed attempt. It is a clue about the order."
             ]
           }
         ]
